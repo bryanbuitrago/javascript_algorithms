@@ -9,3 +9,6 @@ https://www.freecodecamp.com/challenges/reverse-a-string
 
 - EXERCISE #2: FACTORIALIZE A NUMBER
 https://www.freecodecamp.com/challenges/factorialize-a-number
+
+- EXERCISE #3: TITLE CASE A SENTENCE
+https://www.freecodecamp.com/challenges/title-case-a-sentence
