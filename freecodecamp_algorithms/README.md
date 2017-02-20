@@ -12,3 +12,6 @@ https://www.freecodecamp.com/challenges/factorialize-a-number
 
 - EXERCISE #3: TITLE CASE A SENTENCE
 https://www.freecodecamp.com/challenges/title-case-a-sentence
+
+- EXERCISE #4: CONFIRM THE ENDING
+https://www.freecodecamp.com/challenges/confirm-the-ending
