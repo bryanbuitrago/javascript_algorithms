@@ -15,3 +15,6 @@ https://www.freecodecamp.com/challenges/title-case-a-sentence
 
 - EXERCISE #4: CONFIRM THE ENDING
 https://www.freecodecamp.com/challenges/confirm-the-ending
+
+- EXERCISE #5: REPEAT A STRING
+https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
