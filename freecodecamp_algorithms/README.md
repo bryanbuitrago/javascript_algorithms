@@ -18,3 +18,9 @@ https://www.freecodecamp.com/challenges/confirm-the-ending
 
 - EXERCISE #5: REPEAT A STRING
 https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
+
+- EXERCISE #6: CHECK FOR PALINDROMES
+https://www.freecodecamp.com/challenges/check-for-palindromes
+
+- EXERCISE #7: TRUNCATE A STRING
+https://www.freecodecamp.org/challenges/truncate-a-string
